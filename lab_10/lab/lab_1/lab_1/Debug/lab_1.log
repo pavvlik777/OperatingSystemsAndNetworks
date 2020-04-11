@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Study\Labs\SP\lab_10\lab\lab_1\lab_1\main.cpp(120,6): warning C4101: hdc: неиспользованная локальная переменная
+D:\Study\Labs\SP\lab_10\lab\lab_1\lab_1\main.cpp(119,14): warning C4101: ps: неиспользованная локальная переменная
+  lab_1.vcxproj -> D:\Study\Labs\SP\lab_10\lab\lab_1\Debug\lab_1.exe

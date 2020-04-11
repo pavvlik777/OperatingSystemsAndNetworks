@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\asm\lab_2\lab\lab\main.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+d:\asm\lab_2\lab\lab\main.cpp(106): warning C4018: <: несоответствие типов со знаком и без знака
+d:\asm\lab_2\lab\lab\main.cpp(198): warning C4477: "wprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "PVOID"
+  Lab.vcxproj -> D:\ASM\lab_2\Lab\Debug\Lab.exe
